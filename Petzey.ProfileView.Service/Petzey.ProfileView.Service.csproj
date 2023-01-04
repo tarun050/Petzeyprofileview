@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Petzey.ProfileView.Data\Petzey.ProfileView.Data.csproj" />
+    <ProjectReference Include="..\Petzey.ProfileView.Domain\Petzey.ProfileView.Domain.csproj" />
+    <ProjectReference Include="..\ProfileViewDTO\ProfileViewDTO.csproj" />
+  </ItemGroup>
+
+</Project>

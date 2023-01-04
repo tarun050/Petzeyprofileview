@@ -1,0 +1,30 @@
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\ProfileViewDTO.deps.json
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\ProfileViewDTO.dll
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\ProfileViewDTO.pdb
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\Petzey.ProfileView.Domain.dll
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\Petzey.ProfileView.Domain.pdb
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.csproj.CopyComplete
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.dll
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\refint\ProfileViewDTO.dll
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.pdb
+C:\Users\Dell\source\repos\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ref\ProfileViewDTO.dll
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\ProfileViewDTO.deps.json
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\ProfileViewDTO.dll
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\ProfileViewDTO.pdb
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\Petzey.ProfileView.Domain.dll
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\bin\Debug\net6.0\Petzey.ProfileView.Domain.pdb
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.csproj.AssemblyReference.cache
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.AssemblyInfoInputs.cache
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.AssemblyInfo.cs
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.csproj.CopyComplete
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.dll
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\refint\ProfileViewDTO.dll
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ProfileViewDTO.pdb
+C:\Users\Gokul\Downloads\Petzey.ProfileView.API (1)\Petzey.ProfileView.API\ProfileViewDTO\obj\Debug\net6.0\ref\ProfileViewDTO.dll

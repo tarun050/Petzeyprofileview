@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Petzey.ProfileView.API.props" />
+</Project>
